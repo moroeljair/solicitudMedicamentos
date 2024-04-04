@@ -12,7 +12,7 @@ Existen cuatro roles: administrador, enfermero, farmacéutico y paciente.
 - Farmacéutico (correo: enfermero@gmail.com, clave: Asdf1234)
 - Paciente (correo: jaircliente@gmail.com, clave: Asdf1234)
 
-#Tecnologías utilizadas:
+# Tecnologías utilizadas:
 - Flask
 - HTML
 - CSS
